@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymongo
+faiss-cpu
+sentence-transformers
+langchain
+google-generativeai
+langchain-google-genai
+requests
+beautifulsoup4
+torch
+transformers
+firebase-admin
+pydantic
